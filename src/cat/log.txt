@@ -1,0 +1,19 @@
+
+-b hidden.txt hidden.txt
+-n hidden.txt hidden.txt
+-b hidden.txt test.txt
+-n hidden.txt test.txt
+-b hidden.txt squeze.txt
+-n hidden.txt squeze.txt
+-b test.txt hidden.txt
+-n test.txt hidden.txt
+-b test.txt test.txt
+-n test.txt test.txt
+-b test.txt squeze.txt
+-n test.txt squeze.txt
+-b squeze.txt hidden.txt
+-n squeze.txt hidden.txt
+-b squeze.txt test.txt
+-n squeze.txt test.txt
+-b squeze.txt squeze.txt
+-n squeze.txt squeze.txt

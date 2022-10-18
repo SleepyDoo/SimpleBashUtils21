@@ -1,0 +1,1 @@
+typedef struct options {    int e;    int i;    int v;    int c;    int l;    int n;    int o;    int h;    int f;    int s;} opt;void parser(int argc, char ** argv, opt * options, char e_template[1024]);void reader(char ** argv, opt options, int argc, char e_template[1024]);void get_template_e(char template[1024], int * counter_s);
